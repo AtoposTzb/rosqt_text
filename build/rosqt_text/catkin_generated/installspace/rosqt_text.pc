@@ -1,0 +1,8 @@
+prefix=/home/qtrostzb/rosqt_demo01/install
+
+Name: rosqt_text
+Description: Description of rosqt_text
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

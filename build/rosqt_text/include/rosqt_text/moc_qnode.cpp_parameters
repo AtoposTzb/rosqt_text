@@ -1,0 +1,12 @@
+-I/opt/ros/melodic/include
+-I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include
+-I/home/qtrostzb/rosqt_demo01/src/rosqt_text
+-I/home/qtrostzb/rosqt_demo01/build/rosqt_text
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="rosqt_text"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/qtrostzb/rosqt_demo01/build/rosqt_text/include/rosqt_text/moc_qnode.cpp
+/home/qtrostzb/rosqt_demo01/src/rosqt_text/include/rosqt_text/qnode.hpp
